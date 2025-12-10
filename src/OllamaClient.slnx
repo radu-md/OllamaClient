@@ -1,0 +1,8 @@
+{
+    "solution": {
+        "path": "OllamaClient.sln",
+        "projects": [
+            "OllamaClient\\OllamaClient.csproj"
+        ]
+    }
+}

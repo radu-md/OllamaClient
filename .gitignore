@@ -1,0 +1,45 @@
+# Build artifacts
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+TestResults/
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.pidb
+*.svclog
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Node / front-end
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Tooling / cache
+*.cache
+*.tmp
+*.temp
+*.tgz
